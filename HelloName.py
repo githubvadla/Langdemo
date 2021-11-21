@@ -1,4 +1,3 @@
 # Finding the country code
-#name = input("enter the name: ")
-name = "kiran"
+name = input("enter the name: ")
 print("your name is", name)
